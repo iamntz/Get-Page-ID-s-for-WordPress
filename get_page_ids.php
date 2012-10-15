@@ -2,7 +2,7 @@
 /*
 Plugin Name: Get page IDs
 Plugin URI: http://iamntz.com
-Description: Because there are some dumb-asses out there who believe that's ok to let the user to guess page ID's, you will find a new page under tools menu that will help you with this. Enjoy!
+Description: Because there are some dumb-asses out there who believe that's ok to let the user guess page the ID's, you will find a new page under tools menu that will help you with this. Enjoy!
 Author: Ionut Staicu
 Version: 1.0
 Author URI: http://iamntz.com
